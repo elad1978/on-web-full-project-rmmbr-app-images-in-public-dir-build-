@@ -2,7 +2,7 @@ import React from "react";
 import { Routes, Route } from "react-router-dom";
 //import DonorDetails from "./pages/DonorDetails";
 //import LogIn from "./pages/LogIn";
-import MemoryPageForm from "./pages/memoryPageForm";
+import MemoryPageForm from "./pages/MemoryPageForm";
 import MemoryWall from "./pages/MemoryWall";
 import LogInGoogle from "./components/LogInGoogle";
 import DeceasedDetails from "./pages/DeceasedDetails";
